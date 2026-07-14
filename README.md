@@ -5,7 +5,7 @@
 ![updated](https://img.shields.io/badge/updated-July_2026-8250df)
 ![engine](https://img.shields.io/badge/engine-Quality_Clouds_Hub-C800D7)
 
-Published July 2026 by [Quality Clouds Hub](https://qualityclouds.com) · Data available under CC-BY-4.0
+Published July 2026 by [Quality Clouds Hub](https://qualityclouds.ai) · Data available under CC-BY-4.0
 
 > **14% of AI-generated projects ship with a leaked secret or hardcoded credential.
 > 52% of Supabase-backed apps have at least one client-side security
