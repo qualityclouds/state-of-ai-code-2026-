@@ -12,11 +12,6 @@ Published July 2026 by [Quality Clouds Hub](https://qualityclouds.ai) · Data av
 > everything else. Across 21.6 million lines of AI-generated code, we found one issue
 > every 62 lines.**
 
-We built the scanner that produced these numbers, so we have an obvious interest in AI code
-looking bad. The per-repo data is published under CC-BY and the ruleset is documented, so
-every table below can be recomputed from
-[`data/vibe-code-2026.csv`](data/vibe-code-2026.csv). If you think a rule is noise, drop it
-and rerun.
 
 ## Key findings
 
