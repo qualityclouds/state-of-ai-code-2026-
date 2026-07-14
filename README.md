@@ -128,7 +128,7 @@ rather than raw counts, so that larger projects are not penalised for their size
 
 ## Reproduce
 
-Scan your own repository with the same ruleset at [qualityclouds.com](https://qualityclouds.com) —
+Scan your own repository with the same ruleset at [portal.qualityclouds.ai](https://portal.qualityclouds.ai) —
 import your repo and see every finding in minutes.
 
 ## License
