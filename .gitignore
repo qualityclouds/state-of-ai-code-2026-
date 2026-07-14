@@ -1,0 +1,15 @@
+# Never publish: proprietary rule bodies (Quality Clouds catalog)
+catalog/
+
+# Never publish: anything that identifies individual scanned repositories
+clones/
+results/
+failures/
+repos.json
+issues.sqlite
+*.log
+
+__pycache__/
+.idea/
+.DS_Store
+Thumbs.db
