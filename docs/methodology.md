@@ -8,7 +8,7 @@
 - **Filters:** no forks, 150 KB – 100 MB, pushed after 2026-01-01, primary language in
   TypeScript / JavaScript / Python / PHP (the technologies the scanner generates issues for),
   max 2 repos per owner, >=100 lines of scannable code.
-- **Sample:** 429 repositories scanned successfully.
+- **Sample:** 424 repositories scanned successfully.
 
 ## Scanning
 
