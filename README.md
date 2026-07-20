@@ -202,7 +202,7 @@ d.groupby('origin').apply(
 ```
 
 Scan your own repository with the same ruleset at
-[portal.qualityclouds.ai](https://portal.qualityclouds.ai), import your repo and see every
+[portal.qualityclouds.ai](https://portal.qualityclouds.ai/?utm_source=github&utm_medium=readme&utm_campaign=state-of-ai-code-2026&utm_content=report-cta), import your repo and see every
 finding in minutes.
 
 ## License
