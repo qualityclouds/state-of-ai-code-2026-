@@ -185,6 +185,7 @@ column, so they cannot yet be independently reproduced from this dataset.
 | [data/vibe-code-2026.csv](data/vibe-code-2026.csv) | Per-repo metrics (anonymised), one row per project |
 | [data/vibe-code-2026.json](data/vibe-code-2026.json) | Same as above, JSON |
 | [data/aggregate-stats.csv](data/aggregate-stats.csv) | Headline aggregate statistics |
+| [data/score_calibration_v3.csv](data/score_calibration_v3.csv) | Per-repo, per-area rule detail (anonymised): rules evaluated and failing, plus findings by severity. Joins to the per-repo file on `repo_id`. |
 
 ## Reproduce
 
