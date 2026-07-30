@@ -1,11 +1,9 @@
 # The State of AI-Generated Code, 2026
 
-![dataset](https://img.shields.io/badge/dataset-CC--BY--4.0-007ec6)
-![scans](https://img.shields.io/badge/scans-424_repos-320537)
-![updated](https://img.shields.io/badge/updated-July_2026-8250df)
-![engine](https://img.shields.io/badge/engine-Quality_Clouds_Hub-C800D7)
+![dataset](https://img.shields.io/badge/dataset-CC--BY--4.0-4C1D95)
+![engine](https://img.shields.io/badge/engine-Norma-4C1D95)
 
-Published July 2026 by [Quality Clouds Hub](https://qualityclouds.ai) · Data available under CC-BY-4.0
+Published July 2026 by [Norma](https://qualityclouds.ai) · Data available under CC-BY-4.0
 
 > **14% of AI-generated projects ship with a leaked secret or hardcoded credential.
 > 98% of Supabase-backed apps carry at least one security finding, against 77% of
@@ -152,13 +150,13 @@ we are adding.
 Projects were sampled from public GitHub repositories carrying unambiguous markers of the
 generation platform (Lovable/v0/Bolt README templates, AI topics), filtered by size and
 recency, capped at 2 repos per owner. Each was scanned with the **same deterministic rule
-engine and the same 295 production rules** (Semgrep + regex) that power the Quality Clouds
-Hub scanner. **Individual repositories are never named, only aggregate statistics are
+engine and the same 295 production rules** (Semgrep + regex) that power the Norma
+scanner. **Individual repositories are never named, only aggregate statistics are
 published.** Full details in [docs/methodology.md](docs/methodology.md) and
 [docs/ruleset.md](docs/ruleset.md).
 
 All comparisons in this report are made on **issue density** (issues per 1,000 lines of code)
-rather than raw counts, so that larger projects are not penalised for their size.
+rather than raw counts, so that larger projects are not penalized for their size.
 
 **Corrections, 14 July 2026.** An audit of the published CSV before wider release found and
 fixed the following. The dataset contained 8 rows forming 3 groups identical on every field.
